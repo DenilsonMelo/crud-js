@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "613b53e1f74bd707a7ff789e"
+  },
+  "nome": "Caneta",
+  "codigo_barras": "3128371238172312",
+  "valor": 2,
+  "caracteristica": "Preta",
+  "unidade_medida": "1",
+  "marca": "1",
+  "grupo": "2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613d0babac4de0d401fad5f2"
+  },
+  "nome": "Lápis",
+  "codigo_barras": "4556215846846",
+  "valor": 1.2,
+  "caracteristica": "Ponta 0.7",
+  "unidade_medida": "1",
+  "marca": "1",
+  "grupo": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613d23268251a54be93537df"
+  },
+  "nome": "Tênis AirJordan",
+  "codigo_barras": "56412318131513212",
+  "valor": 159,
+  "caracteristica": "Preto/Branco",
+  "unidade_medida": "1",
+  "marca": "2",
+  "grupo": "1",
+  "__v": 0
+}]
